@@ -1,1 +1,1 @@
-first_number = "dick"
+first_number = 1
